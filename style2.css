@@ -84,7 +84,10 @@ a:visited{
 a:active{
     color: #c18bdb;
 }
-
+.slick-dots li
+{
+    margin: 0 2px;
+}
 @media screen and (max-width: 1023px) {
     div.container{
     width: 100vw;
