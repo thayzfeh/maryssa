@@ -1,7 +1,7 @@
 $('.carrossel').slick({
   centerPadding: '60px',
   slidesToShow: 1,
-  arrows: false,
+  arrows: true,
   dots: true,
   asNavFor: '.legenda',
   adaptiveHeight: true,
