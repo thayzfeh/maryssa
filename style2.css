@@ -66,6 +66,24 @@ img{
     margin: auto;
     box-shadow: 5px 5px 15px #0000005b;
 }
+.slick-prev:before,
+.slick-next:before
+{
+    color: black;
+}
+a{
+    color: #A535DB;
+    text-decoration: none;    
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: #b160d6;
+}
+a:active{
+    color: #c18bdb;
+}
 
 @media screen and (max-width: 1023px) {
     div.container{
